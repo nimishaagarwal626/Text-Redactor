@@ -1,6 +1,7 @@
 import argparse
 import project1.main as project1
 
+# Method that segrates all the functionalities of this project.
 def main(parser):
     args=parser.parse_args()
     list_of_files = project1.inputFiles(args)
