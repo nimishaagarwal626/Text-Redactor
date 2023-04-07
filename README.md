@@ -17,7 +17,7 @@ pytest installation: pipenv install pytest
 
 # Video:
 
-https://user-images.githubusercontent.com/114453254/230665446-2771298c-db10-4ff5-a2af-0c935f02fe6c.mov
+https://user-images.githubusercontent.com/114453254/230679899-2a2aa7cf-abae-4d24-97b4-4ed7327d5e38.mov
 
 ## Functions
 # main.py \
